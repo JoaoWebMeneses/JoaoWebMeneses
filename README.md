@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @JoaoWebMeneses
 - 👀 I’m interested in learning programming
+- Now, I'm learning Python, JavaScript, Ruby, Node.Js
+- Sometimes I make games on Scratch
 
 <!---
 JoaoWebMeneses/JoaoWebMeneses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
