@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoWebMeneses
 - 👀 I’m interested in learning programming
-- Now, I'm learning Python, JavaScript, Ruby, Node.Js
+- Now, I'm learning Python, JavaScript, Ruby, React
 - Sometimes I make games on Scratch
 
 <!---
